@@ -5,5 +5,5 @@ connection: "thelook_bq"
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
 
 
-# include: "/Marketing/explores/events.explore.lkml"
+ include: "/Marketing/explores/events.explore.lkml"
 # include: "/Marketing/explores/marketing.explore.lkml"
